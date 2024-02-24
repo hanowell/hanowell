@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ben Hanowell
 - 👀 I’m interested in social science, progressive political activisim, data science, and the intersections thereof
-- 🌱 I’m currently learning to not suck at Python, and how to implement Bayesian inference with pyro
+- 🌱 I’m currently learning about causal machine learning
 - 💞️ I’m looking to collaborate on nothing at the moment, but stay tuned!
 - 📫 How to reach me: On LinkedIn, mostly
 
